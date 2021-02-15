@@ -2,7 +2,7 @@
 #include <string.h>
 
 char str1[100];
-const char* str2 = "Hello 361\0";
+const char* str2 = "Hello 341\0";
 const char* str3 = "3";
 
 int main(){
