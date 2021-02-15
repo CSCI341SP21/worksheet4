@@ -11,7 +11,7 @@ int main(){
   printf("Please enter a number: ");
   int d;
   scanf("%d", &d);
-
+  c = c+a;
   b = b+d;
   
 }
